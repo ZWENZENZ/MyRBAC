@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.administrator.myrbac.fragment.MainFragment;
-pho
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
